@@ -6,7 +6,7 @@ let city=document.getElementById("city").value;
 let message=document.getElementById("message").value;
 
 let text=
-`Golden Bird Enquiry
+`Hey! I want to know detail about your online auction classes
 
 Name: ${name}
 Mobile: ${mobile}
