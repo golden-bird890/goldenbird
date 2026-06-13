@@ -548,3 +548,13 @@ font-size:32px;
 }
 
 }
+.social i{
+    font-size:28px !important;
+    color:#000 !important;
+    display:block !important;
+}
+
+.fa-brands,
+.fa-solid{
+    font-family:"Font Awesome 6 Brands","Font Awesome 6 Free" !important;
+}
